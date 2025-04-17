@@ -9,6 +9,7 @@
 - 🚀 Self-Motivated Learner
 - 🎮 Casual **Dota 2 Gamer** — when the code compiles, it's time for a match
 - 📺 Anime Fan — always enjoying new series and rewatching old favorites
+- 📧 **Email Address**: [alvin.raquem.se@gmail.com](mailto:alvin.raquem.se@gmail.com)
 - 🌐 **Portfolio**: [https://alvinraquem.com](https://alvinraquem.com)
 - 🏅 **AWS Certifications**: ✅ Certified Cloud Practitioner ✅ Certified Solutions Architect – Associate ✅ Certified Developer – Associate
 
