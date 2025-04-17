@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vin!
 
-<!--
-**asraquem00110/asraquem00110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to My Hub
 
-Here are some ideas to get you started:
+- 💻 **Software Engineer** / **Cloud Aspirant-Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Primarily focused on **Backend Development** and **Solution Architecture**, with experience in **Database Design** and **Basic Database Management**  
+  — also comfortable jumping into **Frontend** for both **Web and Mobile** when the project calls for it
+
+- ⚙️ **Technology Stack:** `React.js`, `React Native`, `Node.js`, `Javascript`, `TypeScript`, `MySQL`, `Rest Api`, `GraphQL`, `AWS`
+- 🚀 Self-Motivated Learner
+
+- 🎮 Casual **Dota 2 Gamer** — when the code compiles, it's time for a match
+
+- 📺 Anime Fan — always enjoying new series and rewatching old favorites
+
+- 🌐 **Portfolio**: [https://alvinraquem.com](https://alvinraquem.com)
+
+- 🏅 **AWS Certifications**: ✅ Certified Cloud Practitioner ✅ Certified Solutions Architect – Associate ✅ Certified Developer – Associate
+
+---
+
+### 📬 Let’s Connect
+
+Feel free to reach out or connect with me on any of the platforms below:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvin.raquem.se@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvin-raquem-167799146/)
